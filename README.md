@@ -1,10 +1,9 @@
 👋 Hi, I'm PM Bhargav Sai
 
-🎓 Pursuing my B.Tech degree in Computer Science and Engineering (CSE)
-💻 Enthusiastic about Full Stack Development and Cyber Security
-🌱 Currently learning Spring Boot and exploring the basics of Shell scripting
-📂 I have a few beginner-friendly repositories, including backend projects using MongoDB
-🚀 Actively working on a Full Stack Placement System Interaction Project
+- 💻 Enthusiastic about Full Stack Development and Cyber Security
+- 🌱 Currently learning Spring Boot and exploring the basics of Shell scripting
+- 📂 I have a few beginner-friendly repositories, including backend projects using MongoDB
+- 🚀 Actively working on a Full Stack Placement System Interaction Project
 
 🔧 Skills & Interests
 - Full Stack Development (Frontend + Backend)
