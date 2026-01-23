@@ -1,21 +1,76 @@
-👋 Hi, I'm PM Bhargav Sai
+# 👋 Hi, I'm PM Bhargav Sai
 
-- 💻 Enthusiastic about Full Stack Development and Cyber Security
-- 🌱 Currently learning Spring Boot and exploring the basics of Shell scripting
-- 📂 I have a few beginner-friendly repositories, including backend projects using MongoDB
-- 🚀 Actively working on a Full Stack Placement System Interaction Project
+🎓 Computer Science Engineering Student  
+💻 Full Stack Development & Cyber Security Enthusiast  
 
-🔧 Skills & Interests
-- Full Stack Development (Frontend + Backend)
-- Database Management (MongoDB)
-- Cyber Security Fundamentals
-- Continuous Learning & Experimentation
-  
-📌 Current Focus
-- Building scalable backend systems
-- Strengthening my knowledge in Spring Boot
-- Exploring shell scripting for automation
+---
 
-📫 How to Reach Me
-You can connect with me on LinkedIn (link available in my GitHub profile).
+## 👨‍💻 About Me
 
+- 🔹 Passionate about **Full Stack Development** and **Cyber Security**
+- 🌱 Currently learning **Spring Boot** and **Shell Scripting**
+- 📂 Built multiple beginner-friendly projects, including backend systems using **MongoDB**
+- 🚀 Actively working on a **Full Stack Placement System Interaction Project**
+- 📈 Focused on improving backend design, clean code, and real-world implementation
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+
+### ⚙ Backend
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+
+### 🧰 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+
+---
+
+## 📂 Projects
+
+### 🔹 Placement System (Ongoing)
+- Full Stack web application for placement management  
+- Backend built using **Spring Boot & MongoDB**  
+- Features:
+  - Student authentication
+  - Company listings
+  - Application tracking
+
+### 🔹 Backend Practice Projects
+- RESTful APIs using Spring Boot  
+- MongoDB CRUD operations  
+- Basic authentication implementation  
+
+---
+
+## ⭐ Featured Repositories
+
+- 🔗 [Hibernate CRUD](https://github.com/BhargavsaiPM/hibernate_CRUD)  
+  → Full stack CRUD application using Hibernate  
+
+- 🔗 [Weather Application](https://github.com/BhargavsaiPM/Weather_Application)  
+  → Frontend + API-based weather app  
+
+- 🔗 [Student Management System](https://github.com/BhargavsaiPM/StudentManagmentMongoDB)  
+  → Backend project for managing student records using MongoDB  
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BhargavsaiPM&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/pachari-muni-bhargav-sai)
+
+---
+
+⭐ *Always learning. Always building.*
