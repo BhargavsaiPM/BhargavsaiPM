@@ -15,7 +15,7 @@
 - Building scalable backend systems
 - Strengthening my knowledge in Spring Boot
 - Exploring shell scripting for automation
-- 
+
 📫 How to Reach Me
 You can connect with me on LinkedIn (link available in my GitHub profile).
 
