@@ -10,7 +10,7 @@
 - Database Management (MongoDB)
 - Cyber Security Fundamentals
 - Continuous Learning & Experimentation
-- 
+  
 📌 Current Focus
 - Building scalable backend systems
 - Strengthening my knowledge in Spring Boot
