@@ -63,7 +63,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BhargavsaiPM)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=BhargavsaiPM)
 
 ---
 
