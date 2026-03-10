@@ -57,7 +57,10 @@
   → Frontend + API-based weather app  
 
 - 🔗 [Student Management System](https://github.com/BhargavsaiPM/StudentManagmentMongoDB)  
-  → Backend project for managing student records using MongoDB  
+  → Backend project for managing student records using MongoDB
+  
+- 🔗 [Bridge Placement Interaction System](https://github.com/BhargavsaiPM/bridge-placement-platform)  
+  → Frontend + Backend application helps to reduce manual searching for Job postings different companies
 
 ---
 
