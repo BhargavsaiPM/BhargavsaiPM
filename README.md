@@ -48,10 +48,7 @@
 
 ---
 
-## ⭐ Featured Repositories
-
-- 🔗 [Hibernate CRUD](https://github.com/BhargavsaiPM/hibernate_CRUD)  
-  → Full stack CRUD application using Hibernate  
+## ⭐ Featured Repositories  
 
 - 🔗 [Weather Application](https://github.com/BhargavsaiPM/Weather_Application)  
   → Frontend + API-based weather app  
