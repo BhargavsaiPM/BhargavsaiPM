@@ -1,76 +1,46 @@
-# 👋 Hi, I'm PM Bhargav Sai
+# Hi, I'm Bhargav Sai 👋
 
-🎓 Computer Science Engineering Student  
-💻 Full Stack Development & Cyber Security Enthusiast  
+**B.Tech Data Science Student | Backend & Full-Stack Development**
 
----
+I build practical web applications and backend services, with an interest in Java, Spring Boot, REST APIs, databases, and microservice architecture. I’m focused on writing maintainable code, strengthening problem-solving skills, and developing projects that solve real problems.
 
-## 👨‍💻 About Me
+## Technical Skills
 
-- 🔹 Passionate about **Full Stack Development** and **Cyber Security**
-- 🌱 Currently learning **Spring Boot** and **Shell Scripting**
-- 📂 Built multiple beginner-friendly projects, including backend systems using **MongoDB**
-- 🚀 Actively working on a **Full Stack Placement System Interaction Project**
-- 📈 Focused on improving backend design, clean code, and real-world implementation
+- **Languages:** Java, Python, JavaScript, SQL, C
+- **Backend:** Spring Boot, REST APIs, Spring Data JPA, Spring Security
+- **Frontend:** React, Vite, HTML, CSS
+- **Databases:** PostgreSQL, MySQL, MongoDB
+- **Tools & Platforms:** Git, GitHub, Docker, Linux
 
----
+## Selected Projects
 
-## 🛠 Tech Stack
+### [Bridge — Placement Interaction Platform](https://github.com/BhargavsaiPM/bridge-placement-platform)
+A full-stack placement platform designed to connect students, companies, and placement officers. Includes job listings and applications, applicant review, interview scheduling, and role-based workflows.
 
-### 💻 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+**Stack:** React, Spring Boot, Spring Security, PostgreSQL, JWT
 
-### ⚙ Backend
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+### [MarketGrid Platform](https://github.com/BhargavsaiPM/marketgrid-platform)
+A multi-tenant e-commerce and vendor-management project built around Spring Boot microservices, service discovery, an API gateway, and containerized services.
 
-### 🧰 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+**Stack:** Spring Boot, Eureka, API Gateway, Docker, MySQL
 
----
+### [Weather Application](https://github.com/BhargavsaiPM/Weather_Application)
+A React-based weather application that uses an external API to present weather information.
 
-## 📂 Projects
+### [Student Management System](https://github.com/BhargavsaiPM/StudentManagmentMongoDB)
+A full-stack student-record management project focused on CRUD operations and database integration.
 
-### 🔹 Placement System (Ongoing)
-- Full Stack web application for placement management  
-- Backend built using **Spring Boot & MongoDB**  
-- Features:
-  - Student authentication
-  - Company listings
-  - Application tracking
+## Current Focus
 
-### 🔹 Backend Practice Projects
-- RESTful APIs using Spring Boot  
-- MongoDB CRUD operations  
-- Basic authentication implementation  
+- Building and understanding production-style Spring Boot services
+- Improving data structures, algorithms, and problem-solving
+- Strengthening API design, database modelling, and application security
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/pachari-muni-bhargav-sai)
+- [GitHub Repositories](https://github.com/BhargavsaiPM?tab=repositories)
 
 ---
 
-## ⭐ Featured Repositories  
-
-- 🔗 [Weather Application](https://github.com/BhargavsaiPM/Weather_Application)  
-  → Frontend + API-based weather app  
-
-- 🔗 [Student Management System](https://github.com/BhargavsaiPM/StudentManagmentMongoDB)  
-  → Backend project for managing student records using MongoDB
-  
-- 🔗 [Bridge Placement Interaction System](https://github.com/BhargavsaiPM/bridge-placement-platform)  
-  → Frontend + Backend application helps to reduce manual searching for Job postings different companies
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=BhargavsaiPM)
-
----
-
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/pachari-muni-bhargav-sai)
-
----
-
-⭐ *Always learning. Always building.*
+*Learn consistently. Build deliberately. Improve with every project.*
