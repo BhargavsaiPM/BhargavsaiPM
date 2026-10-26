@@ -9,7 +9,7 @@
 
 <p>
   <a href="https://github.com/BhargavsaiPM?tab=repositories"><img src="https://img.shields.io/badge/Explore-My%20Repositories-7F00FF?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" /></a>
-  <a href="https://www.linkedin.com/in/pachari-muni-bhargav-sai"><img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/bhargavsaipm/"><img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 ![Profile views](https://komarev.com/ghpvc/?username=BhargavsaiPM&style=flat-square&color=brightgreen&label=PROFILE+VIEWS)
