@@ -1,6 +1,6 @@
 # Hi, I'm Bhargav Sai 👋
 
-**B.Tech Data Science Student | Backend & Full-Stack Development**
+**B.Tech Backend & Full-Stack Development**
 
 I build practical web applications and backend services, with an interest in Java, Spring Boot, REST APIs, databases, and microservice architecture. I’m focused on writing maintainable code, strengthening problem-solving skills, and developing projects that solve real problems.
 
