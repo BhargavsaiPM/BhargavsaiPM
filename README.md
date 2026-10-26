@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:E100FF,100:00D4FF&height=190&section=header&text=Bhargav%20Sai&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Building%20ideas%20into%20working%20software&descAlignY=58&descSize=17" alt="Colorful header banner" width="100%" />
 
 <a href="https://github.com/BhargavsaiPM">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=B.Tech+Data+Science+Student;Java+%7C+Spring+Boot+%7C+Full-Stack;Learning%2C+building%2C+and+shipping+projects" alt="Animated typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+Full-Stack;Learning%2C+building%2C+and+shipping+projects" alt="Animated typing introduction" />
 </a>
 
 <p>
@@ -20,7 +20,7 @@
 
 ## 🌈 A little about me
 
-Hey there! I'm **Bhargav Sai**, a B.Tech Data Science student who enjoys turning ideas into useful applications. I’m especially interested in backend engineering, full-stack development, APIs, databases, and microservices.
+Hey there! I'm **Bhargav Sai**, a Full Stack Developer who enjoys turning ideas into useful applications. I’m especially interested in backend engineering, full-stack development, APIs, databases, and microservices.
 
 - 🧩 I like breaking big problems into smaller, testable pieces.
 - ⚙️ I build with Java, Spring Boot, React, and databases.
